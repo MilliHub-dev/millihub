@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Internal form handlers — not for indexing
+Disallow: /forms/
+Disallow: /contact.php
+
+Sitemap: https://www.millihub.site/sitemap.xml
